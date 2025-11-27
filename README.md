@@ -75,11 +75,13 @@ Passionate about turning complex datasets into actionable business insights and 
   </a>
   <a href="https://nafezly.com/u/basant_alsmahy" target="_blank">
     <img src="images/nafezly.png" width="32" alt="Nafezly"/>
-  </a>
+ <p align="center">
   <a href="https://wa.me/message/C2RI5ZRDPCGTP1" target="_blank">
-    <img src="images/whatsapp.png" width="32" alt="WhatsApp"/>
+    <img src="images/whatsapp.png" width="20" style="vertical-align:middle;" alt="WhatsApp"/>
+    WhatsApp
   </a>
 </p>
+
 
 ---
 
