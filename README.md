@@ -1,5 +1,6 @@
 # Basant Mohamed Alsmahy - Data Analyst
 📊 Transforming complex data into actionable insights with Excel, Python, Power BI & Tableau.  
+🌐 [View My Portfolio Online](https://basantalsmahy3.github.io/portfolio/)  
 Cairo, Egypt | [Email](mailto:basantalsmahy3@gmail.com) | [LinkedIn](https://www.linkedin.com/in/basant-alsmahy) | +20 106 261 3644
 
 ---
@@ -61,6 +62,5 @@ Excel analysis of course pricing, categories, and popularity trends.
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-green?style=for-the-badge&logo=whatsapp)](https://wa.me/message/C2RI5ZRDPCGTP1)  
 
 ---
-🌐 [View My Portfolio Online](https://basantalsmahy3.github.io/portfolio/)  
 
 © 2025 Basant Mohamed Alsmahy
