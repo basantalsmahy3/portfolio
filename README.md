@@ -92,7 +92,7 @@ Excel analysis of course pricing, categories, and popularity trends.
 
 <p align="center">
   Email: <a href="mailto:basantalsmahy3@gmail.com">basantalsmahy3@gmail.com</a> | 
-  LinkedIn: <a href="https://www.linkedin.com/in/basant-alsmahy" target="_blank">basant-alsmahy</a> | 
+  LinkedIn: <a href="https://www.linkedin.com/in/basant-alsmahy-8437952aa/" target="_blank">basant-alsmahy</a> | 
   Phone: <a href="tel:+201062613644">01062613644</a>
 </p>
 
