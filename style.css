@@ -5,6 +5,34 @@ body {
   background-color: #e6f2ff;
   color: #003366;
 }
+header .header-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #b3e0ff;
+  padding: 20px 40px;
+}
+
+header .header-left h1 {
+  margin: 0;
+  font-size: 2em;
+}
+
+header .header-left p {
+  margin: 5px 0 0 0;
+}
+
+header .header-right .profile-img {
+  width: 100px;
+  border-radius: 50%;
+  border: 3px solid #003366;
+  cursor: pointer;
+  transition: transform 0.3s;
+}
+
+header .header-right .profile-img:hover {
+  transform: scale(1.1);
+}
 
 header {
   background-color: #99ccff;
