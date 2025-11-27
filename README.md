@@ -5,9 +5,6 @@
 <h1 align="center">Basant Mohamed Alsmahy</h1>
 <p align="center">Data Analyst | Excel • Power BI • Python • Tableau</p>
 <p align="center">📊 Transforming data into clear insights that drive smarter decisions.</p>
-<p align="center">
-  <a href="https://basantalsmahy3.github.io/portfolio/" target="_blank">💻 View My Full Portfolio</a>
-</p>
 
 ---
 
@@ -20,13 +17,11 @@ Passionate about turning complex datasets into actionable business insights and 
 
 ## 🛠 Skills
 
-| Category | Tools & Skills |
-|----------|----------------|
-| **Data Analysis & Visualization** | Excel (Pivot Tables, VLOOKUP, Charts), Power BI, Tableau |
-| **Programming & Data Handling** | Python (Pandas, NumPy, Matplotlib, Seaborn), SQL |
-| **GIS & Mapping** | ArcGIS, QGIS |
-| **Dashboard & Reporting** | KPI Dashboards, Data Storytelling |
-| **Soft Skills** | Problem Solving, Critical Thinking, Communication |
+- **Data Analysis & Visualization:** Excel (Pivot Tables, VLOOKUP, Charts), Power BI, Tableau  
+- **Programming & Data Handling:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL  
+- **GIS & Mapping:** ArcGIS, QGIS  
+- **Dashboard & Reporting:** KPI Dashboards, Data Storytelling  
+- **Soft Skills:** Problem Solving, Critical Thinking, Communication  
 
 ---
 
@@ -48,17 +43,25 @@ Passionate about turning complex datasets into actionable business insights and 
 
 ## 📊 Projects
 
-<div align="center">
+### FIFA World Cup Data Analysis
+<img src="images/projects/fifa/1.jpg" width="200" alt="FIFA Project"/>
+- Historical analysis (1930–2014) using Excel: trends, team performance, pivot tables.  
+- [View on GitHub](https://github.com/basantalsmahy3/FIFA_WorldCup_Analysis)
 
-| Project | Image | Link |
-|---------|-------|------|
-| **FIFA World Cup Data Analysis** | <img src="images/projects/fifa/1.jpg" width="150"/> | [GitHub](https://github.com/basantalsmahy3/FIFA_WorldCup_Analysis) |
-| **Supply Chain Dataset Analysis** | <img src="images/projects/supply-chain/WEEK THREE_page-0001.jpg" width="150"/> | [GitHub](https://github.com/basantalsmahy3/Supply-Chain-Dataset-Analysis-Group-4) |
+### Supply Chain Dataset Analysis
+<img src="images/projects/supply-chain/WEEK THREE_page-0001.jpg" width="200" alt="Supply Chain Project"/>
+- End-to-end supply chain analysis using Python, SQL, Power BI, and Tableau.  
+- [View on GitHub](https://github.com/basantalsmahy3/Supply-Chain-Dataset-Analysis-Group-4)
 
-| **Tableau Sales Dashboard** | <img src="images/projects/tableau-sales/Sales Report.png" width="150"/> | [GitHub](https://github.com/basantalsmahy3/Sales_Data_Analysis_Tableau_Dashboard) |
-| **Online Courses Dataset Analysis** | <img src="images/projects/online-courses/Screenshot 2025-08-21 151327.jpg" width="150"/> | [GitHub](https://github.com/basantalsmahy3/Online-Courses-Dataset-Analysis-Excel-/tree/main) |
+### Tableau Sales Dashboard
+<img src="images/projects/tableau-sales/Sales Report.png" width="200" alt="Sales Dashboard"/>
+- Interactive sales dashboard with KPIs, trends, and regional analysis.  
+- [View on GitHub](https://github.com/basantalsmahy3/Sales_Data_Analysis_Tableau_Dashboard)
 
-</div>
+### Online Courses Dataset Analysis
+<img src="images/projects/online-courses/Screenshot 2025-08-21 151327.jpg" width="200" alt="Online Courses Project"/>
+- Excel analysis of course pricing, categories, and popularity trends.  
+- [View on GitHub](https://github.com/basantalsmahy3/Online-Courses-Dataset-Analysis-Excel-/tree/main)
 
 ---
 
@@ -89,5 +92,9 @@ Passionate about turning complex datasets into actionable business insights and 
 </p>
 
 ---
+
+<p align="center">
+💻 <a href="https://basantalsmahy3.github.io/portfolio/" target="_blank">View My Full Portfolio</a>
+</p>
 
 © 2025 Basant Mohamed Alsmahy. All rights reserved.
