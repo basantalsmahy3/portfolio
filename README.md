@@ -44,24 +44,38 @@ Passionate about turning complex datasets into actionable business insights and 
 ## 📊 Projects
 
 ### FIFA World Cup Data Analysis
-<img src="images/projects/fifa/1.jpg" width="200" alt="FIFA Project"/>
-- Historical analysis (1930–2014) using Excel: trends, team performance, pivot tables.  
-- [View on GitHub](https://github.com/basantalsmahy3/FIFA_WorldCup_Analysis)
+<p align="center">
+  <img src="images/projects/fifa/1.jpg" width="300" alt="FIFA Project"/>
+</p>
+**Description:** Historical analysis (1930–2014) using Excel: trends, team performance, pivot tables.  
+**GitHub:** [View Project](https://github.com/basantalsmahy3/FIFA_WorldCup_Analysis)
+
+---
 
 ### Supply Chain Dataset Analysis
-<img src="images/projects/supply-chain/WEEK THREE_page-0001.jpg" width="200" alt="Supply Chain Project"/>
-- End-to-end supply chain analysis using Python, SQL, Power BI, and Tableau.  
-- [View on GitHub](https://github.com/basantalsmahy3/Supply-Chain-Dataset-Analysis-Group-4)
+<p align="center">
+  <img src="images/projects/supply-chain/WEEK THREE_page-0001.jpg" width="300" alt="Supply Chain Project"/>
+</p>
+**Description:** End-to-end supply chain analysis using Python, SQL, Power BI, and Tableau.  
+**GitHub:** [View Project](https://github.com/basantalsmahy3/Supply-Chain-Dataset-Analysis-Group-4)
+
+---
 
 ### Tableau Sales Dashboard
-<img src="images/projects/tableau-sales/Sales Report.png" width="200" alt="Sales Dashboard"/>
-- Interactive sales dashboard with KPIs, trends, and regional analysis.  
-- [View on GitHub](https://github.com/basantalsmahy3/Sales_Data_Analysis_Tableau_Dashboard)
+<p align="center">
+  <img src="images/projects/tableau-sales/Sales Report.png" width="300" alt="Sales Dashboard"/>
+</p>
+**Description:** Interactive sales dashboard with KPIs, trends, and regional analysis.  
+**GitHub:** [View Project](https://github.com/basantalsmahy3/Sales_Data_Analysis_Tableau_Dashboard)
+
+---
 
 ### Online Courses Dataset Analysis
-<img src="images/projects/online-courses/Screenshot 2025-08-21 151327.jpg" width="200" alt="Online Courses Project"/>
-- Excel analysis of course pricing, categories, and popularity trends.  
-- [View on GitHub](https://github.com/basantalsmahy3/Online-Courses-Dataset-Analysis-Excel-/tree/main)
+<p align="center">
+  <img src="images/projects/online-courses/Screenshot 2025-08-21 151327.jpg" width="300" alt="Online Courses Project"/>
+</p>
+**Description:** Excel analysis of course pricing, categories, and popularity trends.  
+**GitHub:** [View Project](https://github.com/basantalsmahy3/Online-Courses-Dataset-Analysis-Excel-/tree/main)
 
 ---
 
