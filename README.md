@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 Data Analyst with hands-on experience in Excel, Python, Power BI, and Tableau.  
-Bachelor of Arts in Surveying, Mapping, and GIS from Mansoura University (2019-2023).  
+Bachelor of Arts in Surveying, Mapping and GIS from Mansoura University (2019-2023).  
 Passionate about turning complex datasets into actionable business insights and clear data stories.
 
 ---
@@ -65,23 +65,21 @@ Passionate about turning complex datasets into actionable business insights and 
 
 <p align="center">
   <a href="https://www.freelanceyard.com/ar/account/profile" target="_blank">
-    <img src="images/freelanceyard.png" width="32" alt="FreelanceYard"/>
-  </a>
+    <img src="images/freelanceyard.png" width="32" alt="FreelanceYard"/> FreelanceYard
+  </a>&nbsp;&nbsp;
   <a href="https://khamsat.com/user/basant_alsmahy01" target="_blank">
-    <img src="images/khamsat.png" width="32" alt="Khamsat"/>
-  </a>
+    <img src="images/khamsat.png" width="32" alt="Khamsat"/> Khamsat
+  </a>&nbsp;&nbsp;
   <a href="https://mostaql.com/u/Basant_02" target="_blank">
-    <img src="images/mostaql.png" width="32" alt="Mostaql"/>
-  </a>
+    <img src="images/mostaql.png" width="32" alt="Mostaql"/> Mostaql
+  </a>&nbsp;&nbsp;
   <a href="https://nafezly.com/u/basant_alsmahy" target="_blank">
-    <img src="images/nafezly.png" width="32" alt="Nafezly"/>
- <p align="center">
+    <img src="images/nafezly.png" width="32" alt="Nafezly"/> Nafezly
+  </a>&nbsp;&nbsp;
   <a href="https://wa.me/message/C2RI5ZRDPCGTP1" target="_blank">
-    <img src="images/whatsapp.png" width="20" style="vertical-align:middle;" alt="WhatsApp"/>
-    WhatsApp
+    <img src="images/whatsapp.png" width="32" alt="WhatsApp"/> WhatsApp
   </a>
 </p>
-
 
 ---
 
