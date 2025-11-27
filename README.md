@@ -66,20 +66,28 @@ Passionate about turning complex datasets into actionable business insights and 
 <p align="center">
   <a href="https://www.freelanceyard.com/ar/account/profile" target="_blank">
     <img src="images/freelanceyard.png" width="32" alt="FreelanceYard"/> FreelanceYard
-  </a>&nbsp;&nbsp;
+  </a> &nbsp; | &nbsp;
   <a href="https://khamsat.com/user/basant_alsmahy01" target="_blank">
     <img src="images/khamsat.png" width="32" alt="Khamsat"/> Khamsat
-  </a>&nbsp;&nbsp;
+  </a> &nbsp; | &nbsp;
   <a href="https://mostaql.com/u/Basant_02" target="_blank">
     <img src="images/mostaql.png" width="32" alt="Mostaql"/> Mostaql
-  </a>&nbsp;&nbsp;
+  </a> &nbsp; | &nbsp;
   <a href="https://nafezly.com/u/basant_alsmahy" target="_blank">
     <img src="images/nafezly.png" width="32" alt="Nafezly"/> Nafezly
-  </a>&nbsp;&nbsp;
+  </a> &nbsp; | &nbsp;
   <a href="https://wa.me/message/C2RI5ZRDPCGTP1" target="_blank">
     <img src="images/whatsapp.png" width="32" alt="WhatsApp"/> WhatsApp
   </a>
 </p>
+
+---
+
+## 📧 Contact
+
+- Email: [basantalsmahy3@gmail.com](mailto:basantalsmahy3@gmail.com)  
+- Phone: [01062613644](tel:+201062613644)  
+- LinkedIn: [basant-alsmahy](https://www.linkedin.com/in/basant-alsmahy/)  
 
 ---
 
