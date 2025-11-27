@@ -1,7 +1,13 @@
-# Basant Mohamed Alsmahy - Data Analyst
+<p align="center">
+  <img src="images/profil.jpg" width="120" style="border-radius:50%; margin-bottom:10px;" alt="Basant Mohamed Alsmahy"/>
+</p>
 
-📊 Transforming complex data into actionable insights with Excel, Python, Power BI, and Tableau.  
-[💻 View My Full Portfolio](https://basantalsmahy3.github.io/portfolio/)  
+<h1 align="center">Basant Mohamed Alsmahy</h1>
+<p align="center">Data Analyst | Excel • Power BI • Python • Tableau</p>
+<p align="center">📊 Transforming data into clear insights that drive smarter decisions.</p>
+<p align="center">
+  <a href="https://basantalsmahy3.github.io/portfolio/" target="_blank">💻 View My Full Portfolio</a>
+</p>
 
 ---
 
@@ -57,11 +63,23 @@ Passionate about turning complex datasets into actionable business insights and 
 
 ## 🌐 Connect with Me
 
-[![FreelanceYard](https://img.shields.io/badge/FreelanceYard-Profile-1DA1F2?style=for-the-badge&logo=freelance)](https://www.freelanceyard.com/ar/account/profile)  
-[![Khamsat](https://img.shields.io/badge/Khamsat-Profile-FF6600?style=for-the-badge&logo=khamsat)](https://khamsat.com/user/basant_alsmahy01)  
-[![Mostaql](https://img.shields.io/badge/Mostaql-Profile-00A86B?style=for-the-badge&logo=mostaql)](https://mostaql.com/u/Basant_02)  
-[![Nafezly](https://img.shields.io/badge/Nafezly-Profile-7B68EE?style=for-the-badge&logo=nafezly)](https://nafezly.com/u/basant_alsmahy)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/message/C2RI5ZRDPCGTP1)
+<p align="center">
+  <a href="https://www.freelanceyard.com/ar/account/profile" target="_blank">
+    <img src="images/freelanceyard.png" width="32" alt="FreelanceYard"/>
+  </a>
+  <a href="https://khamsat.com/user/basant_alsmahy01" target="_blank">
+    <img src="images/khamsat.png" width="32" alt="Khamsat"/>
+  </a>
+  <a href="https://mostaql.com/u/Basant_02" target="_blank">
+    <img src="images/mostaql.png" width="32" alt="Mostaql"/>
+  </a>
+  <a href="https://nafezly.com/u/basant_alsmahy" target="_blank">
+    <img src="images/nafezly.png" width="32" alt="Nafezly"/>
+  </a>
+  <a href="https://wa.me/message/C2RI5ZRDPCGTP1" target="_blank">
+    <img src="images/whatsapp.png" width="32" alt="WhatsApp"/>
+  </a>
+</p>
 
 ---
 
