@@ -50,6 +50,9 @@ Passionate about turning complex datasets into actionable business insights and 
 **Description:** Historical analysis (1930–2014) using Excel: trends, team performance, pivot tables.  
 **GitHub:** [View Project](https://github.com/basantalsmahy3/FIFA_WorldCup_Analysis)
 
+
+
+
 ---
 
 ### Supply Chain Dataset Analysis
@@ -60,6 +63,11 @@ Passionate about turning complex datasets into actionable business insights and 
 **GitHub:** [View Project](https://github.com/basantalsmahy3/Supply-Chain-Dataset-Analysis-Group-4)
 
 ---
+
+
+
+
+
 
 ### Tableau Sales Dashboard
 <p align="center">
