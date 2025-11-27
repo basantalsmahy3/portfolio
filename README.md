@@ -54,6 +54,7 @@ Passionate about turning complex datasets into actionable business insights and 
 |---------|-------|------|
 | **FIFA World Cup Data Analysis** | <img src="images/projects/fifa/1.jpg" width="150"/> | [GitHub](https://github.com/basantalsmahy3/FIFA_WorldCup_Analysis) |
 | **Supply Chain Dataset Analysis** | <img src="images/projects/supply-chain/WEEK THREE_page-0001.jpg" width="150"/> | [GitHub](https://github.com/basantalsmahy3/Supply-Chain-Dataset-Analysis-Group-4) |
+
 | **Tableau Sales Dashboard** | <img src="images/projects/tableau-sales/Sales Report.png" width="150"/> | [GitHub](https://github.com/basantalsmahy3/Sales_Data_Analysis_Tableau_Dashboard) |
 | **Online Courses Dataset Analysis** | <img src="images/projects/online-courses/Screenshot 2025-08-21 151327.jpg" width="150"/> | [GitHub](https://github.com/basantalsmahy3/Online-Courses-Dataset-Analysis-Excel-/tree/main) |
 
