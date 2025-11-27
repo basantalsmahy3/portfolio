@@ -1,109 +1,141 @@
-body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-  background-color: #e6f7ff; /* سماوي فاتح */
-  color: #003366; /* أزرق غامق للنصوص */
-}
-<header>
-  <div class="container header-flex">
-    <div class="header-left">
-      <h1>Basant Mohamed Alsmahy</h1>
-      <p>Data Analyst | Excel • Power BI • Python • Tableau</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Basant Mohamed Alsmahy - Data Analyst</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="images/profil.jpg">
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <!-- Font Awesome for icons -->
+  <script src="https://kit.fontawesome.com/yourkitid.js" crossorigin="anonymous"></script>
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <div class="container header-container">
+      <div class="header-left">
+        <h1>Basant Mohamed Alsmahy</h1>
+        <p>Data Analyst | Excel • Power BI • Python • Tableau</p>
+        <p>📊 Transforming data into clear insights that drive smarter decisions.</p>
+      </div>
+      <div class="header-right">
+        <img src="images/profil.jpg" alt="Basant Mohamed Alsmahy">
+      </div>
     </div>
-    <div class="header-right">
-      <a href="https://www.linkedin.com/in/basant-alsmahy/" target="_blank">
-        <img src="images/profil.jpg" alt="Profile" class="profile-img">
-      </a>
+  </header>
+
+  <!-- Navigation -->
+  <nav>
+    <div class="container nav-container">
+      <a href="#about">About</a>
+      <a href="#skills">Skills</a>
+      <a href="#experience">Experience</a>
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact</a>
     </div>
-  </div>
-</header>
+  </nav>
 
+  <!-- About -->
+  <section id="about">
+    <div class="container">
+      <h2>About Me</h2>
+      <p>Data Analyst with hands-on experience in Excel, Python, Power BI, and Tableau. Bachelor of Arts in Surveying, Mapping and GIS from Mansoura University (2019-2023). Skilled in data cleaning, analysis, visualization, and translating complex datasets into actionable insights. Passionate about turning data into clear, compelling stories that support business decisions.</p>
+    </div>
+  </section>
 
-header {
-  background-color: #b3e0ff; /* أزرق فاتح */
-  text-align: center;
-  padding: 40px 20px;
-}
+  <!-- Skills -->
+  <section id="skills">
+    <div class="container">
+      <h2>Skills</h2>
+      <ul>
+        <li>Excel (Pivot Tables, VLOOKUP, Charts)</li>
+        <li>Power BI</li>
+        <li>Tableau</li>
+        <li>Python (Pandas, NumPy, Matplotlib, Seaborn)</li>
+        <li>GIS Tools</li>
+        <li>Data Storytelling</li>
+        <li>Dashboard Creation</li>
+      </ul>
+    </div>
+  </section>
 
-header .profile-img {
-  width: 150px;
-  border-radius: 50%;
-  border: 3px solid #003366;
-}
+  <!-- Experience -->
+  <section id="experience">
+    <div class="container">
+      <h2>Experience</h2>
+      <div class="experience-item">
+        <h3>Freelance Data Analyst (2025 – Present)</h3>
+        <p>Delivering Excel, Power BI, and Tableau projects across multiple platforms. Conducting data cleaning, trend analysis, and KPI reporting. Building dashboards that support actionable business decisions.</p>
+      </div>
+      <div class="experience-item">
+        <h3>Data Analyst Intern, Digital Egypt Pioneers Initiative (06/2025 – Present)</h3>
+        <p>Analyzing real-world datasets using Excel, Python, Power BI, and Tableau. Developing interactive dashboards for performance tracking.</p>
+      </div>
+      <div class="experience-item">
+        <h3>GIS & Surveying Specialist, Arab Contractors Company (11/2024)</h3>
+        <p>Collected and visualized spatial data for infrastructure projects using GIS tools.</p>
+      </div>
+    </div>
+  </section>
 
-header h1 {
-  margin: 10px 0;
-  font-size: 2em;
-}
+  <!-- Projects -->
+  <section id="projects">
+    <div class="container">
+      <h2>Projects</h2>
+      <div class="projects-grid">
+        <div class="project-card">
+          <img src="images/projects/fifa/1.jpg" alt="FIFA World Cup">
+          <h3>FIFA World Cup Data Analysis</h3>
+          <p>Historical analysis (1930–2014) using Excel: trends, team performance, pivot tables.</p>
+          <a href="https://github.com/basantalsmahy3/FIFA_WorldCup_Analysis" target="_blank" class="btn">View on GitHub</a>
+        </div>
+        <div class="project-card">
+          <img src="images/projects/supply-chain/WEEK THREE_page-0001.jpg" alt="Supply Chain">
+          <h3>Supply Chain Dataset Analysis</h3>
+          <p>Data cleaning, forecasting, and KPI dashboard using Python, SQL, and Power BI.</p>
+          <a href="https://github.com/basantalsmahy3/Supply-Chain-Dataset-Analysis-Group-4" target="_blank" class="btn">View on GitHub</a>
+        </div>
+        <div class="project-card">
+          <img src="images/projects/tableau-sales/Sales Report.png" alt="Tableau Dashboard">
+          <h3>Tableau Sales Dashboard</h3>
+          <p>Interactive sales dashboard with KPIs, trends, and regional analysis.</p>
+          <a href="https://github.com/basantalsmahy3/Sales_Data_Analysis_Tableau_Dashboard" target="_blank" class="btn">View on GitHub</a>
+        </div>
+        <div class="project-card">
+          <img src="images/projects/online-courses/Screenshot 2025-08-21 151327.jpg" alt="Online Courses">
+          <h3>Online Courses Dataset Analysis</h3>
+          <p>Excel analysis of course pricing, categories, and popularity trends.</p>
+          <a href="https://github.com/basantalsmahy3/Online-Courses-Dataset-Analysis-Excel-/tree/main" target="_blank" class="btn">View on GitHub</a>
+        </div>
+      </div>
+    </div>
+  </section>
 
-header p {
-  font-size: 1.2em;
-}
+  <!-- Contact -->
+  <section id="contact">
+    <div class="container">
+      <h2>Contact</h2>
+      <p>Email: <a href="mailto:basantalsmahy3@gmail.com">basantalsmahy3@gmail.com</a></p>
+      <p>Phone: <a href="tel:+201062613644">01062613644</a></p>
+      <p>LinkedIn: <a href="https://www.linkedin.com/in/basant-alsmahy" target="_blank">basant-alsmahy</a></p>
+      <h3>Freelance Platforms</h3>
+      <div class="platforms">
+        <a href="https://www.freelanceyard.com/ar/account/profile" target="_blank"><img src="images/freelanceyard.png" alt="FreelanceYard"></a>
+        <a href="https://khamsat.com/user/basant_alsmahy01" target="_blank"><img src="images/khamsat.png" alt="Khamsat"></a>
+        <a href="https://mostaql.com/u/Basant_02" target="_blank"><img src="images/mostaql.png" alt="Mostaql"></a>
+        <a href="https://nafezly.com/u/basant_alsmahy" target="_blank"><img src="images/nafezly.png" alt="Nafezly"></a>
+        <a href="https://wa.me/message/C2RI5ZRDPCGTP1" target="_blank"><i class="fa-brands fa-whatsapp fa-2x"></i></a>
+      </div>
+    </div>
+  </section>
 
-nav {
-  background-color: #99d6ff;
-  padding: 10px 0;
-}
-
-nav ul {
-  list-style: none;
-  display: flex;
-  justify-content: center;
-  gap: 20px;
-  margin: 0;
-  padding: 0;
-}
-
-nav a {
-  text-decoration: none;
-  color: #003366;
-  font-weight: bold;
-}
-
-section {
-  padding: 40px 20px;
-}
-
-section h2 {
-  font-size: 1.8em;
-  margin-bottom: 20px;
-  border-bottom: 2px solid #003366;
-  display: inline-block;
-  padding-bottom: 5px;
-}
-
-.job, .project {
-  background-color: #ccefff;
-  padding: 20px;
-  margin-bottom: 20px;
-  border-radius: 10px;
-}
-
-.project-images img {
-  max-width: 150px;
-  margin: 5px;
-  border-radius: 5px;
-}
-
-.btn {
-  display: inline-block;
-  margin-top: 10px;
-  padding: 8px 12px;
-  background-color: #003366;
-  color: #fff;
-  text-decoration: none;
-  border-radius: 5px;
-}
-
-.platforms a img {
-  width: 50px;
-  margin: 10px;
-}
-
-footer {
-  background-color: #99d6ff;
-  text-align: center;
-  padding: 15px 0;
-  margin-top: 40px;
-}
+  <footer>
+    <div class="container">
+      <p>© 2025 Basant Mohamed Alsmahy. All rights reserved.</p>
+      <p><a href="index.html">View Portfolio</a></p>
+    </div>
+  </footer>
+</body>
+</html>
