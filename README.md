@@ -1,66 +1,92 @@
-# Basant Mohamed Alsmahy - Data Analyst
-📊 Transforming complex data into actionable insights with Excel, Python, Power BI & Tableau.  
-🌐 [View My Portfolio Online](https://basantalsmahy3.github.io/portfolio/)  
-Cairo, Egypt | [Email](mailto:basantalsmahy3@gmail.com) | [LinkedIn](https://www.linkedin.com/in/basant-alsmahy) | +20 106 261 3644
+<p align="center">
+  <img src="images/profil.jpg" width="120" style="border-radius:50%; margin-bottom:10px;" alt="Basant Mohamed Alsmahy"/>
+</p>
+
+<h1 align="center">Basant Mohamed Alsmahy</h1>
+<p align="center">Data Analyst | Excel • Power BI • Python • Tableau</p>
+<p align="center">📊 Transforming data into clear insights that drive smarter decisions.</p>
+<p align="center">
+  <a href="https://basantalsmahy3.github.io/portfolio/" target="_blank">💻 View My Full Portfolio</a>
+</p>
 
 ---
 
-## 🛠️ Skills
-- **Data Analysis & Visualization:** Excel (Pivot Tables, VLOOKUP, Charts), Power BI, Tableau  
-- **Programming & Data Handling:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- **GIS Tools & Mapping**  
-- **Data Storytelling & Dashboard Creation**  
-- **Soft Skills:** Problem solving, critical thinking, effective communication  
+## 🧑‍💻 About Me
+Data Analyst with hands-on experience in Excel, Python, Power BI, and Tableau.  
+Bachelor of Arts in Surveying, Mapping and GIS from Mansoura University (2019-2023).  
+Passionate about turning complex datasets into actionable business insights and clear data stories.
+
+---
+
+## 🛠 Skills
+
+| Category | Tools & Skills |
+|----------|----------------|
+| **Data Analysis & Visualization** | Excel (Pivot Tables, VLOOKUP, Charts), Power BI, Tableau |
+| **Programming & Data Handling** | Python (Pandas, NumPy, Matplotlib, Seaborn), SQL |
+| **GIS & Mapping** | ArcGIS, QGIS |
+| **Dashboard & Reporting** | KPI Dashboards, Data Storytelling |
+| **Soft Skills** | Problem Solving, Critical Thinking, Communication |
 
 ---
 
 ## 💼 Experience
 
-**Freelance Data Analyst** (2025 – Present)  
-- Delivered Excel, Power BI, and Tableau projects on [Khamsat](https://khamsat.com/user/basant_alsmahy01), [Mostaql](https://mostaql.com/u/Basant_02), [Nafezly](https://nafezly.com/u/basant_alsmahy), [FreelanceYard](https://www.freelanceyard.com/ar/account/profile).  
-- Conducted data cleaning, trend analysis, KPI reporting, and dashboard creation.
+**Freelance Data Analyst** *(2025 – Present)*  
+- Delivered Excel, Power BI, and Tableau projects across multiple platforms.  
+- Conducted data cleaning, trend analysis, KPI reporting, and created actionable dashboards.
 
-**Data Analyst Intern, Digital Egypt Pioneers Initiative** (06/2025 – Present)  
-- Analyzed real-world datasets using Excel, Python, Power BI, and Tableau.  
-- Developed interactive dashboards for performance tracking and insights.
+**Data Analyst Intern** – Digital Egypt Pioneers Initiative *(06/2025 – Present)*  
+- Developed interactive dashboards for performance tracking.  
+- Applied data storytelling techniques to present insights clearly.
 
-**GIS & Surveying Specialist, Arab Contractors Company** (11/2024)  
+**GIS & Surveying Specialist** – Arab Contractors Company *(11/2024)*  
 - Collected, analyzed, and visualized spatial data for infrastructure projects.  
-- Created detailed maps and spatial reports for project planning.
+- Created detailed maps and reports using GIS tools.
 
 ---
 
 ## 📊 Projects
 
-### FIFA World Cup Data Analysis
-![Excel](https://img.shields.io/badge/Excel-Analysis-blue?style=for-the-badge&logo=microsoft-excel)  
-Historical analysis (1930–2014) using Excel: trends, team performance, pivot tables.  
-[View Project on GitHub](https://github.com/basantalsmahy3/FIFA_WorldCup_Analysis)  
+<div align="center">
 
-### Supply Chain Dataset Analysis
-![Python](https://img.shields.io/badge/Python-Power%20BI-blue?style=for-the-badge&logo=python)  
-Data cleaning, forecasting, KPI dashboard using Python, SQL, Power BI, Tableau.  
-[View Project on GitHub](https://github.com/basantalsmahy3/Supply-Chain-Dataset-Analysis-Group-4)  
+| Project | Image | Link |
+|---------|-------|------|
+| **FIFA World Cup Data Analysis** | <img src="images/projects/fifa/1.jpg" width="150"/> | [GitHub](https://github.com/basantalsmahy3/FIFA_WorldCup_Analysis) |
+| **Supply Chain Dataset Analysis** | <img src="images/projects/supply-chain/WEEK THREE_page-0001.jpg" width="150"/> | [GitHub](https://github.com/basantalsmahy3/Supply-Chain-Dataset-Analysis-Group-4) |
+| **Tableau Sales Dashboard** | <img src="images/projects/tableau-sales/Sales Report.png" width="150"/> | [GitHub](https://github.com/basantalsmahy3/Sales_Data_Analysis_Tableau_Dashboard) |
+| **Online Courses Dataset Analysis** | <img src="images/projects/online-courses/Screenshot 2025-08-21 151327.jpg" width="150"/> | [GitHub](https://github.com/basantalsmahy3/Online-Courses-Dataset-Analysis-Excel-/tree/main) |
 
-### Tableau Sales Dashboard
-![Tableau](https://img.shields.io/badge/Tableau-Dashboard-blue?style=for-the-badge&logo=tableau)  
-Interactive sales dashboard with KPIs, trends, and regional analysis.  
-[View Project on GitHub](https://github.com/basantalsmahy3/Sales_Data_Analysis_Tableau_Dashboard)  
-
-### Online Courses Dataset Analysis
-![Excel](https://img.shields.io/badge/Excel-Analysis-blue?style=for-the-badge&logo=microsoft-excel)  
-Excel analysis of course pricing, categories, and popularity trends.  
-[View Project on GitHub](https://github.com/basantalsmahy3/Online-Courses-Dataset-Analysis-Excel-/tree/main)  
+</div>
 
 ---
 
-## 💻 Freelance Platforms
-[![FreelanceYard](https://img.shields.io/badge/FreelanceYard-Work-blue?style=for-the-badge&logo=freelanceyard)](https://www.freelanceyard.com/ar/account/profile)  
-[![Khamsat](https://img.shields.io/badge/Khamsat-Work-blue?style=for-the-badge&logo=khamsat)](https://khamsat.com/user/basant_alsmahy01)  
-[![Mostaql](https://img.shields.io/badge/Mostaql-Work-blue?style=for-the-badge&logo=mostaql)](https://mostaql.com/u/Basant_02)  
-[![Nafezly](https://img.shields.io/badge/Nafezly-Work-blue?style=for-the-badge&logo=nafezly)](https://nafezly.com/u/basant_alsmahy)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-green?style=for-the-badge&logo=whatsapp)](https://wa.me/message/C2RI5ZRDPCGTP1)  
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.freelanceyard.com/ar/account/profile" target="_blank">
+    <img src="images/freelanceyard.png" width="32" alt="FreelanceYard"/> FreelanceYard
+  </a>
+  <a href="https://khamsat.com/user/basant_alsmahy01" target="_blank">
+    <img src="images/khamsat.png" width="32" alt="Khamsat"/> Khamsat
+  </a>
+  <a href="https://mostaql.com/u/Basant_02" target="_blank">
+    <img src="images/mostaql.png" width="32" alt="Mostaql"/> Mostaql
+  </a>
+  <a href="https://nafezly.com/u/basant_alsmahy" target="_blank">
+    <img src="images/nafezly.png" width="32" alt="Nafezly"/> Nafezly
+  </a>
+  <a href="https://wa.me/message/C2RI5ZRDPCGTP1" target="_blank">
+    <img src="images/whatsapp.png" width="32" alt="WhatsApp"/> WhatsApp
+  </a>
+</p>
+
+<p align="center">
+📧 Email: <a href="mailto:basantalsmahy3@gmail.com">basantalsmahy3@gmail.com</a> |  
+📱 Phone: <a href="tel:+201062613644">01062613644</a> |  
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/basant-alsmahy/">basant-alsmahy</a>
+</p>
 
 ---
 
-© 2025 Basant Mohamed Alsmahy
+© 2025 Basant Mohamed Alsmahy. All rights reserved.
