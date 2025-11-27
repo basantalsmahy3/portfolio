@@ -86,7 +86,7 @@ Passionate about turning complex datasets into actionable business insights and 
 ## 📧 Contact
 
 - Email: [basantalsmahy3@gmail.com](mailto:basantalsmahy3@gmail.com)  
-- Phone: [01062613644](tel:+201062613644)  
+- Phone: [01062613644](https://wa.me/201062613644)
 - LinkedIn: [basant-alsmahy](https://www.linkedin.com/in/basant-alsmahy/)  
 
 ---
