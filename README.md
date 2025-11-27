@@ -30,20 +30,9 @@ Excel analysis of course pricing, categories, and popularity trends.
 - LinkedIn: [basant-alsmahy](https://www.linkedin.com/in/basant-alsmahy/)
 
 ## Freelance Platforms
-<div class="platforms">
-  <a href="https://www.freelanceyard.com/ar/account/profile" target="_blank">
-    <img src="images/freelanceyard.png" alt="FreelanceYard">
-  </a>
-  <a href="https://khamsat.com/user/basant_alsmahy01" target="_blank">
-    <img src="images/khamsat.png" alt="Khamsat">
-  </a>
-  <a href="https://mostaql.com/u/Basant_02" target="_blank">
-    <img src="images/mostaql.png" alt="Mostaql">
-  </a>
-  <a href="https://nafezly.com/u/basant_alsmahy" target="_blank">
-    <img src="images/nafezly.png" alt="Nafezly">
-  </a>
-  <a href="https://wa.me/message/C2RI5ZRDPCGTP1" target="_blank">
-    <img src="images/whatsapp.png" alt="WhatsApp">
-  </a>
-</div>
+
+[![FreelanceYard](https://img.shields.io/badge/FreelanceYard-Profile-1DA1F2?style=for-the-badge&logo=freelance)](https://www.freelanceyard.com/ar/account/profile)  
+[![Khamsat](https://img.shields.io/badge/Khamsat-Profile-FF6600?style=for-the-badge&logo=khamsat)](https://khamsat.com/user/basant_alsmahy01)  
+[![Mostaql](https://img.shields.io/badge/Mostaql-Profile-00A86B?style=for-the-badge&logo=mostaql)](https://mostaql.com/u/Basant_02)  
+[![Nafezly](https://img.shields.io/badge/Nafezly-Profile-7B68EE?style=for-the-badge&logo=nafezly)](https://nafezly.com/u/basant_alsmahy)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/message/C2RI5ZRDPCGTP1)
