@@ -54,10 +54,10 @@ I specialize in Excel, Python, Power BI, Tableau, and GIS tools.
 - **Phone:** 01062613644  
 - **LinkedIn:** [basant-alsmahy](https://www.linkedin.com/in/basant-alsmahy)  
 - **Freelance Platforms:**  
-  ![Khamsat](images/khamsat.png) [Khamsat](https://khamsat.com/user/basant_alsmahy01)  
-  ![Mostaql](images/mostaql.png) [Mostaql](https://mostaql.com/u/Basant_02)  
-  ![Nafezly](images/nafezly.png) [Nafezly](https://nafezly.com/u/basant_alsmahy)  
-  ![FreelanceYard](images/freelanceyard.png) [FreelanceYard](https://www.freelanceyard.com/ar/account/profile)  
+  - ⭐ [Khamsat](https://khamsat.com/user/basant_alsmahy01)
+- 💼 [Mostaql](https://mostaql.com/u/Basant_02)
+- 🛠️ [Nafezly](https://nafezly.com/u/basant_alsmahy)
+- 🚀 [FreelanceYard](https://www.freelanceyard.com/ar/account/profile)
 - **WhatsApp:** [Message me](https://wa.me/message/C2RI5ZRDPCGTP1)  
 
 ---
