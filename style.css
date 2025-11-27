@@ -1,93 +1,57 @@
-/* General Styles */
 body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background: #e6f0ff; /* أزرق فاتح */
-  color: #333;
+  background-color: #e6f2ff;
+  color: #003366;
 }
 
-/* Header */
 header {
-  background: #87cefa; /* سماوي */
-  color: #fff;
+  background-color: #99ccff;
+  color: white;
+  padding: 2rem;
   text-align: center;
-  padding: 30px 10px;
 }
 
 header h1 {
-  margin: 0;
-  font-size: 2.5em;
-}
-
-header p {
-  margin: 5px 0;
-}
-
-/* Navigation */
-nav {
-  margin-top: 15px;
+  margin: 0.5rem 0;
 }
 
 nav a {
+  margin: 0 1rem;
+  color: white;
   text-decoration: none;
-  color: #fff;
-  margin: 0 10px;
   font-weight: bold;
 }
 
-nav a:hover {
-  text-decoration: underline;
-}
-
-/* Sections */
 section {
-  padding: 30px 20px;
+  padding: 2rem;
+  margin: 1rem auto;
   max-width: 1000px;
-  margin: auto;
+  background-color: #f0f8ff;
+  border-radius: 10px;
 }
 
 h2 {
-  color: #1e90ff; /* أزرق فاتح أكثر للعنوانين */
-}
-
-/* Skills */
-ul {
-  list-style: square;
-}
-
-/* Projects */
-.project {
-  background: #f0f8ff; /* أزرق فاتح جدًا */
-  padding: 15px;
-  margin-bottom: 20px;
-  border-radius: 10px;
+  color: #003366;
+  border-bottom: 2px solid #99ccff;
+  padding-bottom: 0.5rem;
 }
 
 .project a {
   display: inline-block;
-  margin-top: 10px;
-  color: #1e90ff;
+  margin-top: 0.5rem;
+  padding: 0.4rem 0.8rem;
+  background-color: #99ccff;
+  color: white;
+  border-radius: 5px;
   text-decoration: none;
   font-weight: bold;
 }
 
-.project a:hover {
-  text-decoration: underline;
-}
-
-/* Platforms Logos */
-.platform {
-  width: 50px;
-  margin: 5px;
-  vertical-align: middle;
-}
-
-/* Footer */
 footer {
-  background: #87cefa;
-  color: #fff;
   text-align: center;
-  padding: 20px;
-  margin-top: 20px;
+  padding: 1rem;
+  background-color: #99ccff;
+  color: white;
 }
