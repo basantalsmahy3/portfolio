@@ -2,104 +2,129 @@
   <img src="images/profil.jpg" width="120" style="border-radius:50%; margin-bottom:10px;" alt="Basant Mohamed Alsmahy"/>
 </p>
 
-<h1 align="center">Basant Mohamed Alsmahy</h1>
-<p align="center" style="font-size:18px;">Data Analyst | Excel • Power BI • Python • Tableau</p>
-<p align="center">📊 Transforming data into clear insights that drive smarter decisions.</p>
+# Basant Mohamed Alsmahy  
+## GIS & Data Analyst | Spatial Analysis • Surveying • Power BI • Python  
+
+📍 Cairo, Egypt  
+📧 basantalsmahy3@gmail.com  
+📞 01062613644  
+🔗 LinkedIn: https://linkedin.com/in/basant-alsmahy-8437952aa  
+
+📊 Transforming spatial and business data into smart, decision-ready insights.
 
 ---
 
-## 🧑‍💻 About Me
-Data Analyst with hands-on experience in Excel, Python, Power BI, and Tableau.  
-Bachelor of Arts in Surveying, Mapping and GIS from Mansoura University (2019-2023).  
-Passionate about turning complex datasets into actionable business insights and clear data stories.
+## 👩‍💻 Professional Summary
+
+GIS & Data Analyst with hands-on experience in ArcGIS Pro, spatial analysis, geodatabase design, topology validation, coordinate transformation, and survey data integration for infrastructure and administrative mapping projects.
+
+Experienced in combining GIS workflows with data analytics tools such as Excel, Python, SQL, and Power BI to deliver dashboards, thematic maps, and data-driven reports.
+
+Strong focus on spatial accuracy, cartographic design standards, and data quality validation.
 
 ---
 
-## 🛠 Skills
-- **Data Analysis & Visualization:** Excel (Pivot Tables, VLOOKUP, Charts), Power BI, Tableau  
-- **Programming & Data Handling:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL  
-- **GIS & Mapping:** ArcGIS, QGIS  
-- **Dashboard & Reporting:** KPI Dashboards, Data Storytelling  
-- **Soft Skills:** Problem Solving, Critical Thinking, Communication  
+## 🛠 Technical Skills
+
+### GIS & Spatial Analysis
+ArcGIS Pro | ArcGIS Desktop  
+Geoprocessing (Clip, Intersect, Dissolve, Buffer, Spatial Join)  
+Topology Rules & Validation  
+Geodatabases (File GDB)  
+Projection Systems (WGS84, UTM)  
+Coordinate Transformation  
+Raster & Vector Processing  
+Cartography & Map Layout Design  
+
+### Surveying & Engineering Tools
+Total Station | GPS Surveying | Field Data Processing | AutoCAD 2D  
+
+### Data Analysis & Reporting
+Excel (Pivot Tables, Power Query, XLOOKUP)  
+Python (Pandas, NumPy, Matplotlib)  
+SQL  
+Power BI (Interactive Dashboards & KPI Monitoring)  
+Tableau  
 
 ---
 
-## 💼 Experience
-**Freelance Data Analyst** *(2025 – Present)*  
-- Delivered Excel, Power BI, and Tableau projects across multiple platforms.  
-- Conducted data cleaning, trend analysis, KPI reporting, and created actionable dashboards.  
+## 💼 Professional Experience
 
-**Data Analyst Intern** – Digital Egypt Pioneers Initiative *(06/2025 – Present)*  
-- Developed interactive dashboards for performance tracking.  
-- Applied data storytelling techniques to present insights clearly.  
+### GIS & Surveying Specialist – Arab Contractors Company (11/2024)
 
-**GIS & Surveying Specialist** – Arab Contractors Company *(11/2024)*  
-- Collected, analyzed, and visualized spatial data for infrastructure projects.  
-- Created detailed maps and reports using GIS tools.  
+- Produced 20+ GIS maps using professional cartographic standards.
+- Applied coordinate systems and projection management ensuring high spatial accuracy.
+- Performed coordinate transformations with positional error < 5 cm.
+- Reduced spatial data errors by 15% through topology validation and spatial data cleaning.
+- Integrated GPS survey data into ArcGIS Pro geodatabases and synchronized spatial layers with AutoCAD 2D drawings.
 
 ---
 
-## 📊 Projects
+### Data Analyst – Digital Egypt Pioneers Initiative (06/2025 – Present)
 
-### FIFA World Cup Data Analysis
-<p align="center">
-  <a href="https://github.com/basantalsmahy3/FIFA_WorldCup_Analysis" target="_blank">
-    <img src="images/projects/fifa/1.jpg" width="350" alt="FIFA Project" style="border-radius:8px;"/>
-  </a>
-</p>
-Historical analysis (1930–2014) using Excel: trends, team performance, pivot tables.  
+- Cleaned and prepared 10+ datasets for KPI tracking.
+- Improved data accuracy by 25% through preprocessing and validation.
+- Built interactive dashboards using Excel, Python, SQL, and Power BI.
+- Communicated insights using data storytelling techniques.
 
 ---
+
+### Freelance GIS & Data Analyst (2025 – Present)
+
+- Delivered 15+ GIS and data analysis projects.
+- Analyzed datasets containing 5,000–30,000 records.
+- Built dashboards reducing reporting time by 35%.
+- Developed thematic maps, spatial analysis reports, and data-driven visualizations.
+
+---
+
+## 📊 Featured GIS Projects
+
+### Administrative Division Mapping – Sinai
+- Created GIS map representing current administrative boundaries.
+- Applied projection consistency checks and topology validation.
+- Designed professional cartographic layout.
+
+### Proposed Administrative Reclassification Model – Sinai Peninsula
+- Designed new administrative restructuring model dividing Sinai into 3 regions.
+- Performed boundary merging and spatial editing.
+- Applied topology rules and attribute validation for boundary accuracy.
+
+### GIS & Survey Data Integration Project
+- Integrated GPS survey data into ArcGIS Pro geodatabases.
+- Performed coordinate transformation with < 5 cm error.
+- Validated geometry and repaired spatial inconsistencies.
+
+---
+
+## 📈 Data Analytics Projects
+
+### FIFA World Cup Historical Analysis
+Excel-based analysis (1930–2014) using Pivot Tables and trend evaluation.
 
 ### Supply Chain Dataset Analysis
-<p align="center">
-  <a href="https://github.com/basantalsmahy3/Supply-Chain-Dataset-Analysis-Group-4" target="_blank">
-    <img src="images/projects/supply-chain/WEEK THREE_page-0001.jpg" width="350" alt="Supply Chain Project" style="border-radius:8px;"/>
-  </a>
-</p>
-End-to-end supply chain analysis using Python, SQL, Power BI, and Tableau.  
+End-to-end analysis using Python, SQL, Power BI, and Tableau.
+
+### Power BI KPI Dashboard
+Interactive dashboard for monitoring performance indicators.
 
 ---
 
-### Tableau Sales Dashboard
-<p align="center">
-  <a href="https://github.com/basantalsmahy3/Sales_Data_Analysis_Tableau_Dashboard" target="_blank">
-    <img src="images/projects/tableau-sales/Sales Report.png" width="350" alt="Tableau Sales Dashboard" style="border-radius:8px;"/>
-  </a>
-</p>
-Interactive sales dashboard with KPIs, trends, and regional analysis.  
+## 🎓 Education
 
----
-
-### Online Courses Dataset Analysis
-<p align="center">
-  <a href="https://github.com/basantalsmahy3/Online-Courses-Dataset-Analysis-Excel-/tree/main" target="_blank">
-    <img src="images/projects/online-courses/Screenshot 2025-08-21 151327.jpg" width="350" alt="Online Courses Dataset Analysis" style="border-radius:8px;"/>
-  </a>
-</p>
-Excel analysis of course pricing, categories, and popularity trends.  
+Bachelor of Arts in Surveying, Mapping & GIS  
+Mansoura University (2019 – 2023)
 
 ---
 
 ## 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.freelanceyard.com/ar/account/profile" target="_blank"><img src="images/freelanceyard.png" width="36" alt="FreelanceYard"/></a>
-  <a href="https://khamsat.com/user/basant_alsmahy01" target="_blank"><img src="images/khamsat.png" width="36" alt="Khamsat"/></a>
-  <a href="https://mostaql.com/u/Basant_02" target="_blank"><img src="images/mostaql.png" width="36" alt="Mostaql"/></a>
-  <a href="https://nafezly.com/u/basant_alsmahy" target="_blank"><img src="images/nafezly.png" width="36" alt="Nafezly"/></a>
-  <a href="https://wa.me/message/C2RI5ZRDPCGTP1" target="_blank"><img src="images/whatsapp.png" width="36" alt="WhatsApp"/></a>
-</p>
 
-<p align="center">
-  Email: <a href="mailto:basantalsmahy3@gmail.com">basantalsmahy3@gmail.com</a> | 
-  LinkedIn: <a href="https://www.linkedin.com/in/basant-alsmahy-8437952aa/" target="_blank">basant-alsmahy</a> | 
-  Phone: <a href="tel:+201062613644">01062613644</a>
-</p>
+FreelanceYard | Khamsat | Mostaql | Nafezly | WhatsApp  
+
+Email: basantalsmahy3@gmail.com  
+LinkedIn: basant-alsmahy  
+Phone: 01062613644  
 
 ---
 
-<p align="center">
-  💻 <a href="https://basantalsmahy3.github.io/portfolio/" target="_blank">View My Full Portfolio</a>
-</p>
-
-© 2025 Basant Mohamed Alsmahy. All rights reserved.
+© 2026 Basant Mohamed Alsmahy. All rights reserved.
